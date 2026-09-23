@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "717c6d09ea954a23294d0e99",
+  "owner": "uyfpwu",
+  "repo": "page-b71c2732a0ba9349adca6478",
+  "title": "破烂小屋",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b71c2732a0ba9349adca6478",
+      "a": "破烂小屋",
+      "b": "2027最新官网",
+      "entity": "破烂小屋",
+      "brand": "破烂小屋",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2b1514cd65bafad369f3e22f673fcb157d6242f86e1510ac41304261080c2485",
+      "content": {
+        "primary_entity": "破烂小屋",
+        "keyword1": "破烂小屋",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，Windows、macOS、Android、iOS 与路由器各有适配方式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先明确设备数量与流量需求，再对照套餐选型并完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更省心",
+          "AI_DESCRIPTION": "，面向需要稳定海外访问的用户，提供基础版、旗舰版与团队版三档选择。旗舰版支持 5 台设备同时在线，含 300GB 月流量与 IPLC 专线优化；团队版可覆盖 20 台设备并支持定制路由。按设备数量与用量挑选，再依客户端文档完成订阅导入即可。",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模与订阅周期三个角度挑选合适档位。",
+          "AI_FEATURES_TITLE": "套餐与设备选择参考",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备，旗舰版 5 台，团队版最多 20 台，先统计日常在线设备数量再决定档位。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 分为三档，重度流媒体或远程办公用户建议选择旗舰版及以上。",
+          "AI_FEATURE_TEXT_3": "月付与年付价格不同，年付方案折算后月均更低，长期使用可优先考虑年付订阅。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "按流量规模选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，按顺序处理三个环节即可正常使用。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "破烂小屋提供海外网络加速订阅服务，覆盖基础版、旗舰版与团队版档位。不同套餐在设备数量、月流量与节点类型上有所区分，用户可结合自身设备规模与使用场景，挑选适合的订阅方案并按客户端文档完成配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量自选",
+          "AI_HIGHLIGHT_1": "三档套餐可选，按设备与流量划分",
+          "AI_HIGHLIGHT_2": "支持 IPLC 专线，游戏与流媒体优化",
+          "AI_HIGHLIGHT_3": "年付折算月均更低，订阅周期灵活",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版覆盖多设备流媒体与游戏场景，团队版面向高流量与多人协作需求。",
+          "AI_PLANS_TITLE": "套餐档位对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量、月流量需求与预算区间，在基础版、旗舰版、团队版之间选定档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备并发数量与流量额度是否满足当前使用场景，不足时调整档位。",
+          "AI_STEP_TEXT_3": "打开对应设备的客户端，参照客户端说明导入订阅信息，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "破烂小屋多档加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "破烂小屋套餐怎么选最合适？",
+          "AI_FAQ_ANSWER_1": "先看同时在线设备数和每月流量。1到3台设备、100GB内选基础版；需要流媒体解锁和游戏加速选旗舰版；多设备或团队使用选团队版。",
+          "AI_FAQ_QUESTION_2": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元、旗舰版350元、团队版850元，折合月费均低于月付价格，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备？",
+          "AI_FAQ_ANSWER_3": "常见平台如Windows、macOS、Android、iOS均有主流客户端可选，具体兼容情况随客户端版本变化，使用前建议核对客户端文档。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "选择对应系统的客户端，在订阅管理里粘贴订阅链接并更新，节点列表出现后即可选择线路。导入失败时检查链接是否完整、客户端是否为较新版本。",
+          "AI_FAQ_QUESTION_5": "流量用超了怎么办？",
+          "AI_FAQ_ANSWER_5": "套餐流量按自然月重置，用超后可等待重置或升级到更高档位。团队版1000GB流量适合多设备重度使用，可按需调整。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nanoportjc.com",
+    "host": "nanoportjc.com"
+  },
+  "file_hashes": {
+    "index.html": "3e4b9fe496465b5522b1a3d22479236913663927ad2f83b29f71f0f60f7e226a",
+    "sitemap.xml": "f7780e370fce605a509889222c8b6b94e827ae3e732badeea3df45904c6c58ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8dde979726d7d86016c0c5655bc91d5af0ee29a273cbd84949d159f4ed76ac8b",
+    "robots.txt": "82f2aa3d0ffe4fddfe0f2881cd3eaf37151f6ab5e91437b6403268bfb1c7a00c",
+    "5b1752a3dfee6adb4347e6494eb2bdd5.txt": "0357254fc1fc2c8031bda964255176ccd26999a2ef9af7f26921c2d6355e4c93"
+  },
+  "revision": "3372ee08e336d9c30dc594d87001e057b62bc31abe834d2cb7fbfd1d1950a3e1"
+}
